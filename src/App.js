@@ -24,11 +24,14 @@ React.useEffect(()=>{
 
   return (
     <div>
+      <h1>useeFfect</h1>
       {count}
+      <p>nithish</p>
       {nith}
       <h1>Hello StackBlitz!</h1>
       <p>Start editing to see some magic happen :)</p>
-      <button onClick={handle}>button</button>
+      <button onClick={handle}>button</button> <br/>
+      <p>nithih</p>
       <button onClick={nithish}>button</button>
     </div>
   );
